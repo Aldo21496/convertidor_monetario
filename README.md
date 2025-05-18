@@ -27,13 +27,13 @@ Este proyecto es una aplicación Java que permite convertir cantidades de dinero
 
 1. **Clona el repositorio:**
     
-    git clone https://github.com/Aldo21496/conversormoneda.git
+    git clone https://github.com/Aldo21496/convertidor_monetario.git
 
     
 
 2. **Navega al directorio del proyecto:**
     
-    cd conversormoneda
+    cd convertidor_monetario
     
 3. **Asegúrate de tener la biblioteca GSON con sus dependencia:**
     
@@ -42,12 +42,12 @@ Este proyecto es una aplicación Java que permite convertir cantidades de dinero
 
 1. **Compila el proyecto:**
     
-    javac Convertir.java
+    javac convertidor.java
     
 
 2. **Ejecuta el proyecto:**
     
-    java Convertir
+    java convertidor
     
 
 3. **Sigue las instrucciones en pantalla para seleccionar el tipo de conversión y la cantidad a convertir.**
